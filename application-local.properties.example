@@ -1,0 +1,3 @@
+# Copy to application-local.properties and use your VNPay sandbox credentials.
+vnpay.tmn-code=YOUR_SANDBOX_TMN_CODE
+vnpay.hash-secret=YOUR_SANDBOX_HASH_SECRET
